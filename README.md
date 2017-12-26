@@ -1,2 +1,3 @@
 # Hello-World
-creating new repository
+Hi,
+I am practicing git hub
